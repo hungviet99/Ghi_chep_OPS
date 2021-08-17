@@ -92,4 +92,10 @@ Có rất nhiều cách để xác thực với keystone service trong đó 2 ph
 
 Phương thức phổ biến nhất  cho user hoặc service để xác thực là dùng password.
 
+![](../images/Screenshot_43.png)
 
+### 4.2. Token
+
+Giống như password, user có thể yếu cầu 1 token mới từ token hiện tại. Payload của POST request này sẽ ít code hơn của password.
+
+![](../images/Screenshot_45.png)

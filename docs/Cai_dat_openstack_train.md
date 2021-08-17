@@ -9,7 +9,7 @@
 
 **Compute**
 
-*IP: 192.168.10.51*
+*IP: 192.168.10.51*  
 *Hostname: compute1*
 
 ## 2. Cài đặt
